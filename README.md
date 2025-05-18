@@ -19,4 +19,5 @@ A simple, interactive Quiz Application built with **HTML**, **CSS**, and **JavaS
 5. At the end, see your score and restart the quiz if you want.
 
 ## Project Structure
+Live Site - https://sagarkumar1824.github.io/Quiz_Game/
 
